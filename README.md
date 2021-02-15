@@ -1,6 +1,5 @@
 # google.clone
-
-#komandas
+git add
 '''
 git clone repozitorija-URL          # Nokopē projektu no github lokāli
 
