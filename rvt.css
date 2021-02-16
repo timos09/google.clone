@@ -1,0 +1,38 @@
+body {font-size:13px;}
+    .logo{
+        width: 150px;}
+        .btn,.btn:active{
+            color: white;
+            font-weight: 700;
+            background: -webkit-linear-gradient(top, #4387fd, #4683ea);
+            padding: 4px 10.5px;
+            border: 1px solid #4285f4;
+            border-radius: 2px;
+            font-size: 13px;
+            text-align:right;
+         }  
+    
+    .search {   
+        width: 45vw;
+        padding: 8px;
+        border-radius:30px;
+        border: 1px solid #d9d9d9;
+        }
+    .img{
+        width: 500px;}
+    .23txt{
+        font-family: Arial;
+    }
+    .img2{
+        width: 230px;
+    }
+    
+    .img3{
+        width: 275px;
+    }
+    .zag{
+        font-family: fantasy;
+        font-size: 30px;
+    }
+    
+    
